@@ -92,6 +92,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnmauricesison/johnmauricesison/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnmauricesison/johnmauricesison/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/johnmauricesison/johnmauricesison/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### 🏆 Certifications
 
 <div align="left" style="margin-top: 1rem; margin-bottom: 1rem;">
@@ -147,13 +155,5 @@
 > "I become what I believe."
 > 
 > *- John Maurice Sison*
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnmauricesison/johnmauricesison/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnmauricesison/johnmauricesison/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/johnmauricesison/johnmauricesison/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
