@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://johnmauricesison.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=flat" height="20" alt="portfolio"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=000000&logoColor=white&labelColor=&style=flat" height="20" alt="portfolio"  />
   </a>
 </div>
 
